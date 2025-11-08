@@ -1,0 +1,8 @@
+python-decouple==3.8
+django==5.2.8
+asgiref==3.10.0
+sqlparse==0.5.3
+djangorestframework==3.16.1
+django_filter==25.2
+psycopg2-binary==2.9.7
+python-dotenv==1.2.1
